@@ -1,2 +1,2 @@
-# Demand-Forecasting-Model
-A Python based time series model to predict inventory demand and reduce overstocking for supply chains
+# Demand-Forecasting-Mo
+A Python based forecasting tool to predict service demand for a small business, helping optimize staff and inventory.
